@@ -1,5 +1,5 @@
-#Hotel Reservations App.
+**Hotel Reservations App**
 
-#Dependencies
+**Dependencies**
 * Thymeleaf.
 * Spring Web Starter.
